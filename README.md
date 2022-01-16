@@ -1,1 +1,1 @@
-# USD_MPM
+# Custom Meal Plan Builder for USD
